@@ -144,3 +144,16 @@
   font-size: 19px;
   padding: 9px;
 }
+
+/* .plans_card:nth-child(2) {
+  visibility: collapse;
+}
+
+p {
+  background: grey;
+  width: 300;
+  height: 200px;
+  overflow: scroll;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+} */
