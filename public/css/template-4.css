@@ -141,6 +141,7 @@
 }
 
 .card {
+  width: 100%;
   max-width: 330px;
   min-height: 330px;
   display: flex;
